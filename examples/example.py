@@ -1,4 +1,4 @@
-from main import *
+from EFieldView.main import *
 
 charges = [(-1, -1, -1), (1, 1, 0.5)]
 
